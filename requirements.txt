@@ -1,0 +1,11 @@
+dotenv
+googleapiclient.discovery
+matplotlib.pyplot
+numpy
+pandas
+PyYAML
+scipy
+seaborn
+scikit-learn
+tqdm
+openai
